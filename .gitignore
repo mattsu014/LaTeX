@@ -1,0 +1,32 @@
+# Arquivos auxiliares do LaTeX
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.idx
+*.ilg
+*.ind
+*.lof
+*.log
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# PDFs gerados (opcional)
+# *.pdf
+
+# Diretórios do editor
+.vscode/
+.idea/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
